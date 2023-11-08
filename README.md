@@ -199,13 +199,14 @@ PUTCHAR_PROTOTYPE
 <img height=20% width=30% src="https://github.com/BharathCSEIOT/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/122793480/20606b49-0708-4b1b-956e-ca45f79b6c62">
 
 ## General ADC Value:
-<img height=20% width=30% src="https://github.com/BharathCSEIOT/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/122793480/b6b285c9-2335-45f7-b078-1417b5eda18c">
+<img height=40% width=50% src="https://github.com/BharathCSEIOT/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/122793480/03059f4d-bd53-45a9-8242-b7f35ab825ac">
 
 ## Dipping soil-moisture-sensor-device in water:
 <img height=20% width=30% src="https://github.com/BharathCSEIOT/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/122793480/93ccaa8a-bf90-47dc-ba3c-0591dced06fa">
 
 ## ADC Value after Dipping Soil-moisture -device in water:
-<img height=20% width=30% src="https://github.com/BharathCSEIOT/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/122793480/d7c3c61b-bd3f-4b89-84cb-fa0fff0218ed">
+<img height=40% width=50% src="https://github.com/BharathCSEIOT/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/122793480/97ef56f4-b38c-4eea-9231-b14ebe92d09a">
+
 
 ## RESULT:
 Hence,the configuring analog port to inteface an analog sensor and read the values using serial port runned successfully.
